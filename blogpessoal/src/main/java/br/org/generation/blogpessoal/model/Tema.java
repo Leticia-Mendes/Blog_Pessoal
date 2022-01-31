@@ -38,12 +38,12 @@ public class Tema {
 		this.id = id;
 	}
 
-	public String getDscricao() {
+	public String getDescricao() {
 		return descricao;
 	}
 
-	public void setDscricao(String dscricao) {
-		this.descricao = dscricao;
+	public void setDescricao(String descricao) {
+		this.descricao = descricao;
 	}
 
 	public List<Postagem> getPostagem() {
