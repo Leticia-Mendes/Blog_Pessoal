@@ -2,9 +2,11 @@
 
 <h3 align="center">API Rest</h3>
 
-<img src="docs\prints\Swagger-blog1.PNG" />
+![](D:\Git\BlogPessoal\docs\prints\Swagger-blog1.PNG)
 
-<img src="docs\prints\Swagger-blog2.PNG" />
+![](D:\Git\BlogPessoal\docs\prints\Swagger-blog2.PNG)
+
+
 
 
 
