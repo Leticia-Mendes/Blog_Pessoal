@@ -2,9 +2,9 @@
 
 <h3 align="center">API Rest</h3>
 
-<img src="BlogPessoal\docs\prints\Swagger-blog1.PNG" />
+<img src="docs\prints\Swagger-blog1.PNG" />
 
-<img src="BlogPessoal\docs\prints\Swagger-blog2.PNG" />
+<img src="docs\prints\Swagger-blog2.PNG" />
 
 
 
